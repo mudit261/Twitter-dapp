@@ -1,6 +1,6 @@
 # Decentralized Twitter DApp
 
-A blockchain-based social media application built using **Solidity**. This project explores the fundamentals of smart contract development, enabling users to interact with a decentralized social feed directly on the Ethereum blockchain.
+A blockchain-based social media application built using **Solidity**. This project explores the fundamentals of smart contract development  enabling users to interact with a decentralized social feed directly on the Ethereum blockchain.
 
 ## 🚀 Overview
 This DApp provides a platform for users to create and manage social posts in a transparent and immutable way. It serves as a practical implementation of core Solidity concepts for decentralized application (DApp) development.
